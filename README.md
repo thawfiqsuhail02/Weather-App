@@ -1,0 +1,2 @@
+# Weather-App
+This Weather App enables the user to add numerous locations to the list to verify the weather data accordingly. The user will be able to view the updated weather data every hour for any given location. Some supplementary information is also presented within the app like timings of sunrise and sunset of that specific day, prevailing humidity at the particular location and rain forecast.
